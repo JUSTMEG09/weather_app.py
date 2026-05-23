@@ -1,4 +1,4 @@
-# Project - Build a Weather app, that a real time weather linked to an API
+# Project - Build a Weather app, that reads a real time weather linked to an API
 import sys
 import requests
 from PyQt5.QtWidgets import (
